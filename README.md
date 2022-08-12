@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austinmary
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Front End Web Development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me in austinmary456@gmail.com
